@@ -59,7 +59,7 @@ MIT, copyright 2026 Anthony / AoRA. See [LICENSE](LICENSE). This license covers 
 
 Useful reports include the node settings, normal-map provider and axis convention, and whether the effect helped or harmed the image. Share images only if you have permission, and remove private workflow metadata first.
 
-Project: Anthony / AoRA. Developed with AI coding assistance (Claude and GPT), with CPU tests and a limited real-image experiment. This standalone node is separate from AoRA Maker.
+Project: Anthony / AoRA. Developed with AI coding assistance, with CPU tests and a limited real-image experiment. This standalone node is separate from AoRA Maker.
 
 ---
 
